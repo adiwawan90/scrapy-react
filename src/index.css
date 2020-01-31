@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #b3e5fc;
+}
+
+.card {
+  width: 18rem;
+}
+
+.row {
+  margin-top: 10px;
+}
+
+.wrapper {
+  margin-top: 70px;
+}
+
+.container {
+  margin: 0px auto;
+}
+
+/* .App {
+  margin: 20px auto;
+  width: 90%;
+  max-width: 700px;
+  color: cornsilk;
+} */
+
+/* .navbar {
+  padding: 10px 20px;
+  text-align: center;
+  background-color: cadetblue;
+  border-radius: 10px;
+} */
+
+/* .navbar h1 {
+  margin: 10px 0;
+  color: azure;
+} */
+
+.navbar {
+  position: relative;
+}
+
+.thumbnail {
+  background-color: bisque;
+  box-shadow: 0 4px 24px -4px rgba(0, 0, 0, 0.75);
+}
+
+.fixed {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 999;
+  -webkit-box-shadow: 0 4px 24px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0 4px 24px -4px rgba(0, 0, 0, 0.75);
+  box-shadow: 0 4px 24px -4px rgba(0, 0, 0, 0.75);
+}
+
+.caption {
+  margin-bottom: 0.75rem;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.card.scrap {
+  width: 265px;
+  height: 445px;
+  margin-top: -40px;
+}
+
+.footer {
+  width: 1140px;
+  margin: auto;
+}
+
+.paginate {
+  margin-left: 375px;
+}
+
+.row {
+  margin-top: 10px;
+  margin: auto;
+}

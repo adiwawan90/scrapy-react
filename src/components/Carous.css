@@ -1,0 +1,125 @@
+.btnbgr {
+    background-color: white !important;
+    color: black;
+}
+
+.top {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 0px;
+    margin-left: -4px;
+}
+
+#footer {
+    height: 50px;
+    line-height: 50px;
+}
+
+.cart-column {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    margin-right: 1.5em;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.cart-row {
+    display: flex;
+}
+
+.cart-item {
+    width: 45%;
+}
+
+.cart-price {
+    width: 20%;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.cart-quantity {
+    width: 35%;
+}
+
+.cart-item-title {
+    color: #333;
+    margin-left: .5em;
+    font-size: 1.2em;
+}
+
+.cart-item-image {
+    width: 75px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.cart-quantity-input {
+    height: 34px;
+    width: 50px;
+    border-radius: 5px;
+    border: 1px solid #56ccf2;
+    background-color: #eee;
+    color: #333;
+    padding: 0;
+    text-align: center;
+    margin-right: 25px;
+}
+
+/* carousel indicator */
+.carrous {
+    height: 450px;
+}
+
+.carousel-indicators {
+    position: unset;
+    margin-top: 20px;
+    height: 10px;
+}
+
+.carousel-indicators .active {
+    background-color: #673AB7 !important;
+}
+
+.carousel-indicators li {
+    position: relative;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 25px;
+    height: 10px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    background-color: turquoise;
+    border-radius: 5px;
+}
+
+.carousel-inner {
+    height: 425px;
+}
+
+/* shop card */
+.shop-item-title {
+    font-weight: bold;
+}
+
+.card {
+    transition: transform .8s;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.card:hover {
+    position: absolute !important;
+    -ms-transform: scale(1.05);
+    /* IE 9 */
+    -webkit-transform: scale(1.05);
+    /* Safari 3-8 */
+    transform: scale(1.05);
+    box-shadow: 0 4px 24px -4px rgba(0, 0, 0, 0.75);
+}
+
+.ol {
+    color: teal;
+}
