@@ -11,7 +11,7 @@ export default class Banner extends Component {
                         alt="Card cap"/>
                     <figcaption>
                         <h3 class="title1">The</h3>
-                        <h3 class="title2">Blancpain</h3>
+                        <h3 class="title2">ASUS</h3>
                         <h3 class="title3">Collection</h3>
                     </figcaption><a href="#"></a>
                 </figure>
@@ -21,7 +21,7 @@ export default class Banner extends Component {
                         alt="Card cap"/>
                     <figcaption>
                         <h3 class="title1">The</h3>
-                        <h3 class="title2">Rollex</h3>
+                        <h3 class="title2">ACER</h3>
                         <h3 class="title3">Collection</h3>
                     </figcaption><a href="#"></a>
                 </figure>
@@ -31,7 +31,7 @@ export default class Banner extends Component {
                         alt="Card cap"/>
                     <figcaption>
                         <h3 class="title1">The</h3>
-                        <h3 class="title2">Patek Philippe</h3>
+                        <h3 class="title2">MSI</h3>
                         <h3 class="title3">Collection</h3>
                     </figcaption><a href="#"></a>
                 </figure>
